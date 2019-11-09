@@ -1,0 +1,2 @@
+computer hardware is the physical parts or components of a computer, such as the monitor, keyboard, computer data storage, graphic card, sound card and motherboard.[1] By contrast, software is instructions that can be stored and ran by hardware.
+hardware is directed by the software to execute any command or instruction. A combination of hardware and software forms a usable computing system.
